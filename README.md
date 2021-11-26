@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning html, javascript and python.
 - 👩‍💻 Knowledge in C.
-- 😄 Pronouns: she/hers
+- 😄 Pronouns: she/her
 
 ![EloaDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=EloaDev&show_icons=true&theme=ayu-mirage)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EloaDev&layout=compact&theme=ayu-mirage)
