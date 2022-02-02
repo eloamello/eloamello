@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning html, javascript and python.
+- 🌱 I’m currently learning html, css, javascript and python.
 - 😄 Pronouns: she/her
 
 ![eloadev's GitHub stats](https://github-readme-stats.vercel.app/api?username=eloadev&show_icons=true&theme=ayu-mirage)
