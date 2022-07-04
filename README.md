@@ -1,7 +1,7 @@
 # Oiee 👋
 
-#### - 🌱 I’m currently focusing on learning JavaScript.
-#### -    No momento estou focando em aprender Javascript.
+#### - 🌱 I’m currently focusing on learning PHP.
+#### -    No momento estou focando em aprender PHP.
 #### - 😄 Pronouns: she/her.
 #### -    Pronomes: ela/dela.
 
