@@ -1,6 +1,5 @@
 # Oiee 👋
 
-#### - 🌱 I’m currently focusing on learning PHP.
 #### - 😄 Pronouns: she/her.
 
 <div align="center">
