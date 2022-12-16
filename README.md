@@ -4,7 +4,7 @@
     <ul>
       <li>😄 Pronouns: she/her.</li>
       <li>💻 Back-end developer.</li>
-      <li>:keyboard: Atualmente estou aprofundando meus conhecimentos em Python.</li>
+      <li>:keyboard: Atualmente estou aprofundando meus conhecimentos em CSharp e Python.</li>
       <li>:bulb: Conhecimentos em PHP, Python, C, Java e linguagens de desenvolvimento WEB (HTML e CSS).</li>
     </ul>
   </div>
