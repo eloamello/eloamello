@@ -2,10 +2,8 @@
 
 <div>
   <ul>
-    <li>😄 Pronouns: she/her.</li>
     <li>💻 Back-end developer.</li>
     <li>:keyboard: Atualmente estou aprofundando meus conhecimentos em CSharp e Python.</li>
-    <li>:bulb: Conhecimentos em PHP, Python, C, Java e linguagens de desenvolvimento WEB (HTML e CSS).</li>
   </ul>
 </div>
   
@@ -17,6 +15,7 @@
   <img alt="elo-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img alt="elo-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
   <img alt="elo-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img alt="elo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img alt="elo-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 </div>
 
