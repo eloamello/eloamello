@@ -1,13 +1,13 @@
 ## Oiee, eu sou a Eloá 👋
 
+<img align="right" alt="elo-pic" height="180" style="border-radius:50px;" src="https://user-images.githubusercontent.com/88734873/208163066-06ea813e-e697-4528-b4cf-cf0044e5f5ec.svg">
+
 <div>
   <ul>
     <li>💻 Back-end developer.</li>
     <li>:keyboard: Atualmente estou aprofundando meus conhecimentos em CSharp e Python.</li>
   </ul>
 </div>
-  
-##
 
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="elo-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -17,7 +17,7 @@
   <img align="center" alt="elo-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="elo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="elo-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img align="right" alt="elo-pic" height="120" style="border-radius:50px;" src="https://user-images.githubusercontent.com/88734873/208163066-06ea813e-e697-4528-b4cf-cf0044e5f5ec.svg">
+  
 </div>
 <div style="display: inline_block" align="center">
   <a href = "mailto: eloamello126@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
