@@ -4,9 +4,11 @@
 
 <div>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22223B&vCenter=true&width=435&lines=BackEnd+developer" alt="Typing SVG" /></a>
-  <br>⇒ Mais conhecida como Elo
+  <br>⊳ Mais conhecida como Elo
   <br>⊳ Estudando para cada dia ser uma melhor versão de mim
-  <br>➪ Atualmente estou aprofundando meus conhecimentos em CSharp e Python
+  <br>⊳ Atualmente estou aprofundando meus conhecimentos em CSharp e Python
+  <br>⊳
+  <br>⊳
 </div>
 
 ********************
@@ -31,8 +33,8 @@
 
 <div align="center">
   <a href="https://github.com/eloadev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eloadev&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eloadev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eloadev&layout=compact&langs_count=7&theme=dracula&bg_color=22223b&title_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eloadev&show_icons=true&theme=dracula&bg_color=22223b&title_color=ffffff&include_all_commits=true&count_private=true"/>
 </div>
 
 ********************
