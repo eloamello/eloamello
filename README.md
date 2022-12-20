@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=22223b&height=170&section=header&text=Oie,%20eu%20sou%20a%20Elo&aacute!&fontSize=50&fontColor=FFFFFF&animation=twinkling&fontAlignY=30" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=22223b&height=170&section=header&text=Oie,%20eu%20sou%20a%20Elo&aacute!&fontSize=40&fontColor=FFFFFF&animation=twinkling&fontAlignY=30" />
 
 <img align="right" alt="elo-pic" height="180" style="border-radius:50px;" src="https://user-images.githubusercontent.com/88734873/208163066-06ea813e-e697-4528-b4cf-cf0044e5f5ec.svg">
 
