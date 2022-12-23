@@ -7,8 +7,7 @@
   <br>⊳ Mais conhecida como Elo
   <br>⊳ Estudando para cada dia ser uma melhor versão de mim
   <br>⊳ Atualmente estou aprofundando meus conhecimentos em CSharp e Python
-  <br>⊳
-  <br>⊳
+  <br>⊳ Amo a natureza e os bichinhos que vivem nela
 </div>
 
 ********************
