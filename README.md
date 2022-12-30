@@ -5,9 +5,10 @@
 <div>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=432818&vCenter=true&width=435&lines=BackEnd+developer" alt="Typing SVG" /></a>
   <br>⊳ Mais conhecida como Elo
-  <br>⊳ Estudando para cada dia ser uma melhor versão de mim
-  <br>⊳ Atualmente estou aprofundando meus conhecimentos em CSharp e Python
-  <br>⊳ Amo a natureza e os bichinhos que vivem nela
+  <br>⊳ Cursando Bacharelado em Sistemas de Informação no CEFET/NF
+  <br>⊳ Estudando para cada dia ser uma melhor versão
+  <br>⊳ Atualmente aprofundando os conhecimentos em CSharp e Python
+  <br>⊳ Amor a natureza e os bichinhos que vivem nela
 </div>
 
 ********************
