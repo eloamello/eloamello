@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=432818&height=170&section=header&text=Oie,%20eu%20sou%20a%20Elo&aacute!&fontSize=40&fontColor=FFFFFF&animation=twinkling&fontAlignY=30" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ffb4a2&height=170&section=header&text=Oie,%20eu%20sou%20a%20Elo&aacute!&fontSize=40&fontColor=FFFFFF&animation=twinkling&fontAlignY=30" />
 
 <img align="right" alt="elo-pic" height="180" style="border-radius:50px;" src="https://user-images.githubusercontent.com/88734873/208163066-06ea813e-e697-4528-b4cf-cf0044e5f5ec.svg">
 
@@ -29,13 +29,13 @@
   <a href="https://www.linkedin.com/in/elo%C3%A1-mello-016943226/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
+<br>
+
 <div align="center">
   <a href="https://github.com/eloadev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eloadev&layout=compact&langs_count=7&theme=dracula&bg_color=00000000&text_color=432818&title_color=432818"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eloadev&show_icons=true&theme=dracula&bg_color=00000000&title_color=432818&text_color=432818&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eloadev&layout=compact&langs_count=7&theme=dracula&bg_color=00000000&text_color=b5838d&title_color=b5838d"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eloadev&show_icons=true&theme=dracula&bg_color=00000000&title_color=b5838d&text_color=b5838d&include_all_commits=true&count_private=true"/>
 </div>
-
-<img width="100%" src="https://user-images.githubusercontent.com/88734873/210033689-df610f42-07e8-45dc-855c-334020067aa8.gif">
 
 <div>
 
