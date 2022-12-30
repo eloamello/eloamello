@@ -37,8 +37,3 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eloadev&layout=compact&langs_count=7&theme=dracula&bg_color=00000000&title_color=250902&text_color=250902"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eloadev&show_icons=true&theme=dracula&bg_color=00000000&title_color=250902&text_color=250902&include_all_commits=true&count_private=true"/>
 </div>
-
-<div>
-
-  ![Snake animation](https://github.com/eloadev/eloadev/blob/output/github-contribution-grid-snake.svg)
-</div>
