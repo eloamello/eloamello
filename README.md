@@ -4,11 +4,11 @@
 
 <div>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=250902&vCenter=true&width=435&lines=BackEnd+developer" alt="Typing SVG" /></a>
-  <br>⊳ Mais conhecida como Elo
-  <br>⊳ Cursando Bacharelado em Sistemas de Informação no CEFET/NF
-  <br>⊳ Estudando para cada dia ser uma melhor versão
-  <br>⊳ Atualmente aprofundando os conhecimentos em CSharp e Python
-  <br>⊳ Amor a natureza e os bichinhos que vivem nela
+  <br>⊳ Mais conhecida como Elo;
+  <br>⊳ Cursando Bacharelado em Sistemas de Informação no CEFET/NF;
+  <br>⊳ Estudando para cada dia ser uma melhor versão;
+  <br>⊳ Atualmente aprofundando os conhecimentos em CSharp e Python;
+  <br>⊳ Amor a natureza e os bichinhos que vivem nela.
 </div>
   
 <img width="100%" src="https://user-images.githubusercontent.com/88734873/210033689-df610f42-07e8-45dc-855c-334020067aa8.gif">
