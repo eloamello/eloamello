@@ -1,9 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=22223b&height=170&section=header&text=Oie,%20eu%20sou%20a%20Elo&aacute!&fontSize=40&fontColor=FFFFFF&animation=twinkling&fontAlignY=30" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=432818&height=170&section=header&text=Oie,%20eu%20sou%20a%20Elo&aacute!&fontSize=40&fontColor=FFFFFF&animation=twinkling&fontAlignY=30" />
 
 <img align="right" alt="elo-pic" height="180" style="border-radius:50px;" src="https://user-images.githubusercontent.com/88734873/208163066-06ea813e-e697-4528-b4cf-cf0044e5f5ec.svg">
 
 <div>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22223B&vCenter=true&width=435&lines=BackEnd+developer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=432818&vCenter=true&width=435&lines=BackEnd+developer" alt="Typing SVG" /></a>
   <br>⊳ Mais conhecida como Elo
   <br>⊳ Estudando para cada dia ser uma melhor versão de mim
   <br>⊳ Atualmente estou aprofundando meus conhecimentos em CSharp e Python
@@ -32,8 +32,8 @@
 
 <div align="center">
   <a href="https://github.com/eloadev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eloadev&layout=compact&langs_count=7&theme=dracula&bg_color=22223b&title_color=ffffff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eloadev&show_icons=true&theme=dracula&bg_color=22223b&title_color=ffffff&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eloadev&layout=compact&langs_count=7&theme=dracula&bg_color=00000000&text_color=432818&title_color=432818"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eloadev&show_icons=true&theme=dracula&bg_color=00000000&title_color=432818&text_color=432818&include_all_commits=true&count_private=true"/>
 </div>
 
 ********************
