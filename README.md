@@ -10,11 +10,11 @@
   <br>⊳ Atualmente aprofundando os conhecimentos em CSharp e Python;
   <br>⊳ Amor a natureza e os bichinhos que vivem nela.
 </div>
-  
-<img width="100%" src="https://user-images.githubusercontent.com/88734873/210033689-df610f42-07e8-45dc-855c-334020067aa8.gif">
+
+
+<br><img width="100%" src="https://user-images.githubusercontent.com/88734873/210033689-df610f42-07e8-45dc-855c-334020067aa8.gif"><br>
 
 <div style="display: inline_block" align="center">
-  
   <img align="center" alt="elo-HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
   <img align="center" alt="elo-CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
   <img align="center" alt="elo-Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
