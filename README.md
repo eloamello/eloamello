@@ -32,6 +32,7 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/eloadev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eloadev&show_icons=true&theme=dracula&bg_color=00000000&title_color=250902&text_color=250902&include_all_commits=true&count_private=true"/>
+  
+  [![eloadev's GitHub stats](https://github-readme-stats.vercel.app/api?username=eloadev&show_icons=true&bg_color=00000000)](https://github.com/eloadev/github-readme-stats)
+  
 </div>
