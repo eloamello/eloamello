@@ -33,6 +33,6 @@
 
 <div align="center">
   
-  [![eloadev's GitHub stats](https://github-readme-stats.vercel.app/api?username=eloadev&show_icons=true&bg_color=00000000)](https://github.com/eloadev/github-readme-stats)
+  <a href="https://github.com/eloadev/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=eloadev&show_icons=true&include_all_commits=true&hide_border=true&title_color=250902&text_color=250902&icon_color=250902" alt="eloadev's github stats" /></a>
   
 </div>
