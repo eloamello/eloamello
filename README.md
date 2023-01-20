@@ -8,7 +8,7 @@
   <br>⊳ Cursando Bacharelado em Sistemas de Informação no CEFET/NF;
   <br>⊳ Estudando para cada dia ser uma melhor versão;
   <br>⊳ Atualmente aprofundando os conhecimentos em CSharp e Python;
-  <br>⊳ Amor a natureza e os bichinhos que vivem nela.
+  <br>⊳ Amo a natureza e os bichinhos que vivem nela.
 </div>
 
 ********
@@ -31,9 +31,8 @@
 
 <br>
 
-<!-- <div align="center">
-  
-  | <a href="https://github.com/eloadev/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=eloadev&show_icons=true&include_all_commits=true&hide_border=true&title_color=250902&text_color=250902&icon_color=250902" alt="eloadev's github stats" /></a> | <a href="https://github.com/eloadev/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eloadev&layout=compact&hide_border=true&title_color=250902&text_color=250902" /></a> |
-  | ------------- | ------------- |
-  
-</div> -->
+<div style="display: inline_block">
+
+  <a align="left" href="https://github.com/eloadev/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=eloadev&show_icons=true&include_all_commits=true&hide_border=true&title_color=250902&text_color=250902&icon_color=250902&custom_title=Stats" alt="eloadev's github stats" /></a>
+  <a align="right" href="https://github.com/eloadev/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eloadev&layout=compact&hide_border=true&title_color=250902&text_color=250902" /></a>
+</div>
