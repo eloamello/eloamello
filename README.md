@@ -31,8 +31,8 @@
 
 <br>
 
-<div style="display: inline_block">
+<div style="display: inline_block" align="center">
 
-  <a align="left" href="https://github.com/eloadev/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=eloadev&show_icons=true&include_all_commits=true&hide_border=true&title_color=250902&text_color=250902&icon_color=250902&custom_title=Stats" alt="eloadev's github stats" /></a>
-  <a align="right" href="https://github.com/eloadev/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eloadev&layout=compact&hide_border=true&title_color=250902&text_color=250902" /></a>
+  <a href="https://github.com/eloadev/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=eloadev&show_icons=true&include_all_commits=true&hide_border=true&title_color=250902&text_color=250902&icon_color=250902&custom_title=Stats" alt="eloadev's github stats" /></a>
+  <a href="https://github.com/eloadev/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eloadev&layout=compact&hide_border=true&title_color=250902&text_color=250902" /></a>
 </div>
