@@ -1,9 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=250902&height=170&section=header&text=Oie,%20eu%20sou%20a%20Elo&aacute!&fontSize=40&fontColor=FFFFFF&animation=twinkling&fontAlignY=30" />
-
 <img align="right" alt="elo-pic" height="180" style="border-radius:50px;" src="https://user-images.githubusercontent.com/88734873/208163066-06ea813e-e697-4528-b4cf-cf0044e5f5ec.svg">
 
 <div>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=250902&vCenter=true&weight=500&width=435&lines=BackEnd+developer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=250902&vCenter=true&weight=500&width=435&repeat=false&lines=BackEnd+developer" alt="Typing SVG" /></a>
   
   <br><img alt="arrow" height="10" width="10" src="assets/style/ARROW.svg" /> Mais conhecida como Elo;
   <br><img alt="arrow" height="10" width="10" src="assets/style/ARROW.svg" /> Cursando Bacharelado em Sistemas de Informação no CEFET/NF;
@@ -12,11 +10,11 @@
   <br><img alt="arrow" height="10" width="10" src="assets/style/ARROW.svg" /> Amo a natureza e os bichinhos que vivem nela.
 </div>
 
-<img alt="rainbow-line-gif" width="100%" src="assets/gifs/rainbow-line.gif" />
-
-<br><br>
+<br><img alt="rainbow-line-gif" width="100%" src="assets/gifs/rainbow-line.gif" /><br><br>
 
 <div style="display: inline_block">
+  <p><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&pause=1000&color=250902&vCenter=true&repeat=false&width=435&lines=Languages,+databases+and+frameworks" alt="Typing SVG" /></a></p>
+  
   <img align="center" alt="elo-HTML" height="40" width="40" src="assets/langs-svg/HTML5.svg" />
   <img align="center" alt="elo-CSS" height="40" width="40" src="assets/langs-svg/CSS3.svg" />
   <img align="center" alt="elo-Java" height="40" width="40" src="assets/langs-svg/JAVA.svg" />
@@ -25,10 +23,12 @@
   <img align="center" alt="elo-C#" height="40" width="40" src="assets/langs-svg/CSHARP.svg">
   <img align="center" alt="elo-Mysql" height="40" width="40" src="assets/langs-svg/MYSQL.svg" />
   <img align="center" alt="elo-Selenium" height="40" width="40" src="assets/langs-svg/SELENIUM.svg" />
-  <img align="center" alt="elo-Canva" height="40" width="40" src="assets/langs-svg/CANVA.svg" />
-</div>
+</div><br>
 
-<br><br>
+<div>
+  <p><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&pause=1000&color=250902&vCenter=true&repeat=false&width=435&lines=Tools" alt="Typing SVG" /></a></p>
+  <img align="center" alt="elo-Canva" height="40" width="40" src="assets/langs-svg/CANVA.svg" />
+</div><br>
 
 <div style="display: inline_block">
   <p><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&pause=1000&color=250902&vCenter=true&repeat=false&width=435&lines=Contact+me" alt="Typing SVG" /></a></p>
