@@ -11,7 +11,7 @@
   <br>⊳ Amo a natureza e os bichinhos que vivem nela.
 </div>
 
-********
+<img alt="rainbow-line-gif" width="100%" src="https://user-images.githubusercontent.com/88734873/213739221-a50a1b4a-be5a-4112-8058-8e9db92e5aa7.gif" />
 
 <div style="display: inline_block" align="center">
   <img align="center" alt="elo-HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -27,12 +27,4 @@
   <a href = "mailto: eloamello126@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.instagram.com/iam.eloamellx/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/elo%C3%A1-mello-016943226/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
-
-<br>
-
-<div style="display: inline_block" align="center">
-
-  <a href="https://github.com/eloadev/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=eloadev&show_icons=true&include_all_commits=true&hide_border=true&title_color=250902&text_color=250902&icon_color=250902&custom_title=Stats" alt="eloadev's github stats" /></a>
-  <a href="https://github.com/eloadev/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eloadev&layout=compact&hide_border=true&title_color=250902&text_color=250902" /></a>
 </div>
