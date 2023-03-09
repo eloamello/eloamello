@@ -16,14 +16,14 @@
 <div style="display: inline_block">
   <p><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&pause=1000&color=5E4948&vCenter=true&repeat=false&width=435&lines=Languages,+databases+and+frameworks" alt="Typing SVG" /></a></p>
   
+  <img align="center" alt="elo-Python" height="40" width="40" src="assets/langs-svg/PYTHON.svg" />
+  <img align="center" alt="elo-C#" height="40" width="40" src="assets/langs-svg/CSHARP.svg">
+  <img align="center" alt="elo-Selenium" height="40" width="40" src="assets/langs-svg/SELENIUM.svg" />
   <img align="center" alt="elo-HTML" height="40" width="40" src="assets/langs-svg/HTML5.svg" />
   <img align="center" alt="elo-CSS" height="40" width="40" src="assets/langs-svg/CSS3.svg" />
   <img align="center" alt="elo-Java" height="40" width="40" src="assets/langs-svg/JAVA.svg" />
   <img align="center" alt="elo-PHP" height="50" width="50" src="assets/langs-svg/PHP.svg" />
-  <img align="center" alt="elo-Python" height="40" width="40" src="assets/langs-svg/PYTHON.svg" />
-  <img align="center" alt="elo-C#" height="40" width="40" src="assets/langs-svg/CSHARP.svg">
   <img align="center" alt="elo-Mysql" height="40" width="40" src="assets/langs-svg/MYSQL.svg" />
-  <img align="center" alt="elo-Selenium" height="40" width="40" src="assets/langs-svg/SELENIUM.svg" />
 </div><br>
 
 <div>
