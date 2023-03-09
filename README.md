@@ -7,7 +7,7 @@
   <br><img alt="arrow" height="10" width="10" src="assets/style/ARROW.svg" /> Desenvolvedora RPA e RaaS;
   <br><img alt="arrow" height="10" width="10" src="assets/style/ARROW.svg" /> Cursando Bacharelado em Sistemas de Informação no CEFET/NF;
   <br><img alt="arrow" height="10" width="10" src="assets/style/ARROW.svg" /> Estudando para cada dia ser uma melhor versão;
-  <br><img alt="arrow" height="10" width="10" src="assets/style/ARROW.svg" /> Atualmente aprofundando os conhecimentos em CSharp e Python;
+  <br><img alt="arrow" height="10" width="10" src="assets/style/ARROW.svg" /> Atualmente aprofundando os conhecimentos em Python e Docker;
   <br><img alt="arrow" height="10" width="10" src="assets/style/ARROW.svg" /> Amo a natureza e os bichinhos que vivem nela.
 </div>
 
