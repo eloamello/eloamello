@@ -37,3 +37,7 @@
   <a href="https://www.instagram.com/iam.eloamellx/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/elo%C3%A1-mello-016943226/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
+![eloadev's GitHub stats](https://github-readme-stats.vercel.app/api?username=eloadev&show_icons=true&bg_color=00000000)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eloadev&layout=compact)](https://github.com/eloadev/github-readme-stats)
