@@ -19,10 +19,6 @@
   <img align="center" alt="elo-Python" height="40" width="40" src="assets/langs-svg/PYTHON.svg" />
   <img align="center" alt="elo-C#" height="40" width="40" src="assets/langs-svg/CSHARP.svg">
   <img align="center" alt="elo-Selenium" height="40" width="40" src="assets/langs-svg/SELENIUM.svg" />
-  <img align="center" alt="elo-HTML" height="40" width="40" src="assets/langs-svg/HTML5.svg" />
-  <img align="center" alt="elo-CSS" height="40" width="40" src="assets/langs-svg/CSS3.svg" />
-  <img align="center" alt="elo-Java" height="40" width="40" src="assets/langs-svg/JAVA.svg" />
-  <img align="center" alt="elo-PHP" height="50" width="50" src="assets/langs-svg/PHP.svg" />
   <img align="center" alt="elo-Mysql" height="40" width="40" src="assets/langs-svg/MYSQL.svg" />
 </div><br>
 
