@@ -18,11 +18,13 @@
   <img align="center" alt="elo-Python" height="40" width="40" src="assets/langs-svg/PYTHON.svg" />
   <img align="center" alt="elo-C#" height="40" width="40" src="assets/langs-svg/CSHARP.svg">
   <img align="center" alt="elo-Selenium" height="40" width="40" src="assets/langs-svg/SELENIUM.svg" />
+  <img align="center" alt="elo-Docker" height="40" width="40" src="assets/langs-svg/DOCKER.svg" />
   <img align="center" alt="elo-Mysql" height="40" width="40" src="assets/langs-svg/MYSQL.svg" />
 </div><br>
 
 <div>
   <p><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&pause=1000&color=5E4948&vCenter=true&repeat=false&width=435&lines=Tools" alt="Typing SVG" /></a></p>
+  <img align="center" alt="elo-GIT" height="40" width="40" src="assets/langs-svg/GIT.svg" />
   <img align="center" alt="elo-Canva" height="40" width="40" src="assets/langs-svg/CANVA.svg" />
 </div><br>
 
