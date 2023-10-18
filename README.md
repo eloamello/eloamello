@@ -4,7 +4,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5E4948&vCenter=true&weight=500&width=435&repeat=false&lines=BackEnd+developer" alt="Typing SVG" /></a>
   
   <br><img alt="arrow" height="10" width="10" src="assets/style/ARROW.svg" /> Mais conhecida como Elo;
-  <br><img alt="arrow" height="10" width="10" src="assets/style/ARROW.svg" /> Desenvolvedora RPA e RaaS;
+  <br><img alt="arrow" height="10" width="10" src="assets/style/ARROW.svg" /> Desenvolvedora backend;
   <br><img alt="arrow" height="10" width="10" src="assets/style/ARROW.svg" /> Cursando Bacharelado em Sistemas de Informação no CEFET/NF;
   <br><img alt="arrow" height="10" width="10" src="assets/style/ARROW.svg" /> Estudando para cada dia ser uma melhor versão;
   <br><img alt="arrow" height="10" width="10" src="assets/style/ARROW.svg" /> Amo a natureza e os bichinhos que vivem nela.
