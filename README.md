@@ -7,7 +7,7 @@
   <br><img alt="arrow" height="10" width="10" src="assets/style/ARROW.svg" /> Desenvolvedora backend;
   <br><img alt="arrow" height="10" width="10" src="assets/style/ARROW.svg" /> Cursando Bacharelado em Sistemas de Informação no CEFET/NF;
   <br><img alt="arrow" height="10" width="10" src="assets/style/ARROW.svg" /> Estudando para cada dia ser uma melhor versão;
-  <br><img alt="arrow" height="10" width="10" src="assets/style/ARROW.svg" /> Amo a natureza e os bichinhos que vivem nela.
+  <br><img alt="arrow" height="10" width="10" src="assets/style/ARROW.svg" /> Amor pela natureza e os bichinhos que vivem nela.
 </div>
 
 <br><img alt="rainbow-line-gif" width="100%" src="assets/gifs/rainbow-line.gif" /><br><br>
@@ -17,7 +17,6 @@
   
   <img align="center" alt="elo-Python" height="40" width="40" src="assets/langs-svg/PYTHON.svg" />
   <img align="center" alt="elo-C#" height="40" width="40" src="assets/langs-svg/CSHARP.svg">
-  <img align="center" alt="elo-Selenium" height="40" width="40" src="assets/langs-svg/SELENIUM.svg" />
   <img align="center" alt="elo-Docker" height="40" width="40" src="assets/langs-svg/DOCKER.svg" />
   <img align="center" alt="elo-Mysql" height="40" width="40" src="assets/langs-svg/MYSQL.svg" />
 </div><br>
