@@ -13,21 +13,6 @@
 <br><img alt="rainbow-line-gif" width="100%" src="assets/gifs/rainbow-line.gif" /><br><br>
 
 <div style="display: inline_block">
-  <p><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&pause=1000&color=5E4948&vCenter=true&repeat=false&width=435&lines=Languages,+databases+and+frameworks" alt="Typing SVG" /></a></p>
-  
-  <img align="center" alt="elo-Python" height="40" width="40" src="assets/langs-svg/PYTHON.svg" />
-  <img align="center" alt="elo-C#" height="40" width="40" src="assets/langs-svg/CSHARP.svg">
-  <img align="center" alt="elo-Docker" height="40" width="40" src="assets/langs-svg/DOCKER.svg" />
-  <img align="center" alt="elo-Mysql" height="40" width="40" src="assets/langs-svg/MYSQL.svg" />
-</div><br>
-
-<div>
-  <p><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&pause=1000&color=5E4948&vCenter=true&repeat=false&width=435&lines=Tools" alt="Typing SVG" /></a></p>
-  <img align="center" alt="elo-GIT" height="40" width="40" src="assets/langs-svg/GIT.svg" />
-  <img align="center" alt="elo-Canva" height="40" width="40" src="assets/langs-svg/CANVA.svg" />
-</div><br>
-
-<div style="display: inline_block">
   <p><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&pause=1000&color=5E4948&vCenter=true&repeat=false&width=435&lines=Contact+me" alt="Typing SVG" /></a></p>
   <a href = "mailto: eloamello126@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.instagram.com/iam.eloamellx/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
